@@ -4,3 +4,5 @@ numpy
 scikit-learn
 gensim
 tqdm
+beautifulsoup4
+lxml
